@@ -1,0 +1,16 @@
+{
+  "name": "render-account-creator",
+  "version": "1.0.0",
+  "description": "Node.js account creator with Telegram integration and web panel for Render.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gemini",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "express": "^4.19.2"
+  }
+}
